@@ -1,0 +1,5 @@
+.idea
+.gitignore
+tests/__pycache__
+praktikum/__pycache__
+.venv
