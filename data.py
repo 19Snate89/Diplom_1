@@ -1,18 +1,18 @@
 
 class BunData:
-    bun_name = 'black bun'
-    bun_price = 100
+    bun_name = 'Флюоресцентная булка'
+    bun_price = 988
 
 
 class IngredientData:
-    ingredient_name = 'chili sauce'
-    ingredient_price = 200
-    ingredient_type = 'SAUCE'
+    ingredient_name = 'сыр с астероидой плесенью'
+    ingredient_price = 4142
+    ingredient_type = 'начинка'
 
 
 class Receipt:
-    receipt_body = ('(==== black bun ====)\n'
-                    '= sauce chili sauce =\n'
-                    '(==== black bun ====)\n'
+    receipt_body = ('(==== Флюоресцентная булка ====)'
+                    '\n= начинка сыр с астероидой плесенью ='
+                    '\n(==== Флюоресцентная булка ====)'
                     '\n'
-                    'Price: 500')
+                    '\nPrice: 6118')

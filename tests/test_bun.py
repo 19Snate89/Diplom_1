@@ -1,5 +1,6 @@
 from data import BunData
 
+
 class TestBun:
 
     def test_give_new_name_bun(self, set_data_bun):
